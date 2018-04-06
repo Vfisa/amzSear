@@ -28,6 +28,6 @@ URL_ADDONS = {'headers': {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 
                            'AppleWebKit/537.36 (KHTML, like Gecko) '
                            'Chrome/60.0.3112.113 Safari/537.36'}}
 GAT_ID = 't' + 'ag'
-QUERY_BUILD_DICT = {GAT_ID : 'alhs-20'}
-
-SEARCH_URL = '%s/s/ref=nb_sb_noss?sf=qz&keywords=%s&ie=UTF8&unfiltered=1&page=%s' 
+QUERY_BUILD_DICT = {GAT_ID : ''}
+20
+SEARCH_URL = '%s/s/?sf=qz&keywords=%s&ie=UTF8&unfiltered=1&page=%s' 
